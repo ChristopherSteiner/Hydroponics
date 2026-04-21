@@ -13,7 +13,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeit, 
 - Wasser Pumpe - Luftpumpe Sicce Air Light 1000 60ltr/h
 - Messgeräte - Aquamaster Tools pH Temp meter P50 Pro, Bluelab EC Mess-Stab Truncheon
 
-## Keimung
+## Phase 1: Anzucht & Keimung (Setzlings-Phase)
 
 ### 📊 Messwerte Übersicht
 
@@ -26,3 +26,12 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeit, 
 #### Tag 0 - 24.04.2026
 
 Tupper mit Wasser gefüllt und PH reduziert auf 5.5. Steinwolle eingelegt.
+
+## Phase 2: Transfer & Etablierung (Vegetative Phase I)
+
+| Datum | Tag | pH (🍅) | pH (🍓) | ec (🍅) | ec (🍓) | Temp Luft | Temp Wasser (🍅) | Temp Wasser (🍓) | Licht | Notiz-Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
+## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
+
+## Phase 4: Blüte & Fruchtbildung (Generative Phase)
