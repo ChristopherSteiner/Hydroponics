@@ -8,7 +8,7 @@ Tagebuch und Berichte über Hydroponic (meist mit DWC) Projekte.
 
 | Projekt Nummer | Beschreibung |
 | --- | --- |
-| 1 | Chilis, nicht wirklich dokumentiert |
+| 1 | [Chilis](/Project1/project.md) |
 | 2 | [San Marzano Tomaten & Erdbeeren Florian F1](/Project2/project.md) |
 
 ## Tools
