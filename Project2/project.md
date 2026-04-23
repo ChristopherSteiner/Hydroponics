@@ -19,13 +19,15 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeit, 
 
 | Datum | Tag | pH | Temp Luft | Temp Wasser | Licht | Notiz-Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 24.04. | 0 | 5.5 | todo°C | todo°C | 20% | [Anzucht Start](#tag-0---24042026) |
+| 23.04. | 0 | 5.5 | 22.6°C | - | 0% | [Anzucht Start](#tag-0---23042026) |
 
 ### 📝 Tages-Einträge
 
-#### Tag 0 - 24.04.2026
+#### Tag 0 - 23.04.2026
 
-Tupper mit Wasser gefüllt und PH reduziert auf 5.5. Steinwolle eingelegt.
+Tupper mit lauwarmen Wasser gefüllt und PH reduziert auf 5.5. Steinwolle eingelegt.
+
+![Chili Projekt](assets/PXL_20260423_163119618.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
