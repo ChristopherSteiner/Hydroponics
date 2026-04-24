@@ -41,7 +41,7 @@ Steinwolle aus dem Wasser genommen, das Wasser ist in der Nacht durch die Wolle 
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
-| Datum | Tag | pH (🍅) | pH (🍓) | ec (🍅) | ec (🍓) | Temp Luft | Temp Wasser (🍅) | Temp Wasser (🍓) | Licht | Notiz-Link |
+| Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Licht | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | - | - | - | - | - | - | - | - | - | - | - |
 
