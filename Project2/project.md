@@ -1,5 +1,9 @@
 # San Marzano Tomaten & Erdbeeren Florian
 
+[← Zurück zur Übersicht](../readme.md)
+
+---
+
 ## Einführung
 
 Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeit, aber in unterschiedlichen Behältern grossgezogen werden.
