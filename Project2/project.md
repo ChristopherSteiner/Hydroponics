@@ -43,6 +43,7 @@ Steinwolle aus dem Wasser genommen, das Wasser ist in der Nacht durch die Wolle 
 
 | Datum | Tag | pH (🍅) | pH (🍓) | ec (🍅) | ec (🍓) | Temp Luft | Temp Wasser (🍅) | Temp Wasser (🍓) | Licht | Notiz-Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| - | - | - | - | - | - | - | - | - | - | - |
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
