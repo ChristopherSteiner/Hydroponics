@@ -6,7 +6,7 @@
 
 ## Einführung
 
-Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeit, aber in unterschiedlichen Behältern grossgezogen werden.
+Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig, aber in unterschiedlichen Behältern, grossgezogen werden.
 
 ## Setup
 
