@@ -16,7 +16,6 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 - PH - FARMii PH Minus
 - Wasser Pumpe - Luftpumpe Sicce Air Light 1000 60ltr/h
 - Messgeräte - Aquamaster Tools pH Temp meter P50 Pro, Bluelab EC Mess-Stab Truncheon
-- Heizmatte - Root!t Heizmatte, 5034517301034
 
 ## Phase 1: Anzucht & Keimung (Setzlings-Phase)
 
