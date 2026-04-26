@@ -25,8 +25,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23.04. | 0 | 5.5 | 22.6°C | - | 0% | [Anzucht Start](#tag-0---23042026) |
 | 24.04. | 1 | 5.5 | 23.2°C | - | 30% | [Anzucht Start](#tag-1---24042026) |
-| 24.04. | 2 | 5.5 | 23°C | - | 30% | [Anzucht Start](#tag-2---25042026) |
-| 24.04. | 3 | 5.5 | 23°C | - | 30% | - |
+| 25.04. | 2 | 5.5 | 23.5°C | - | 30% | [Anzucht Start](#tag-2---25042026) |
+| 26.04. | 3 | 5.5 | 23°C | - | 30% | - |
 
 ### 📝 Tages-Einträge
 
