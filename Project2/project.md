@@ -24,7 +24,9 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | Datum | Tag | pH | Temp Luft | Temp Wasser | Licht | Notiz-Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23.04. | 0 | 5.5 | 22.6°C | - | 0% | [Anzucht Start](#tag-0---23042026) |
-| 24.04. | 0 | 5.5 | 23.2°C | - | 30% | [Anzucht Start](#tag-1---24042026) |
+| 24.04. | 1 | 5.5 | 23.2°C | - | 30% | [Anzucht Start](#tag-1---24042026) |
+| 24.04. | 2 | 5.5 | 23°C | - | 30% | [Anzucht Start](#tag-2---25042026) |
+| 24.04. | 3 | 5.5 | 23°C | - | 30% | - |
 
 ### 📝 Tages-Einträge
 
@@ -41,6 +43,14 @@ Steinwolle aus dem Wasser genommen, das Wasser ist in der Nacht durch die Wolle 
 ![Projekt 2](assets/Day1/PXL_20260424_092006999.jpg)
 
 ![Projekt 2](assets/Day1/PXL_20260424_094531446.jpg)
+
+#### Tag 2 - 25.04.2026
+
+Dunstbildung erfolgreich, Dichtung hält, System bleibt die nächsten Tage in sich geschlossen.
+
+![Projekt 2](assets/Day2/PXL_20260425_051641317.jpg)
+
+![Projekt 2](assets/Day2/PXL_20260425_061238858.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
