@@ -21,14 +21,15 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 
 ### 📊 Messwerte Übersicht
 
-| Datum | Tag | pH | Temp Luft | Temp Wasser | Licht | Notiz / Link |
+| Datum | Tag | pH | Temp Luft | Beleuchtungszeit | Intensität | Notiz / Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23.04. | 0 | 5.5 | 22.6°C | - | 0% | [Anzucht Start](#tag-0---23042026) |
-| 24.04. | 1 | 5.5 | 23.2°C | - | 30% | [Anzucht Start](#tag-1---24042026) |
-| 25.04. | 2 | 5.5 | 23.5°C | - | 30% | [Anzucht Start](#tag-2---25042026) |
-| 26.04. | 3 | 5.5 | 23°C | - | 30% | System bleibt geschlossen |
-| 27.04. | 4 | 5.5 | 23.6°C | - | 30% | System bleibt geschlossen |
-| 28.04. | 5 | 5.5 | 23.7°C | - | 30% | [Anzucht Start](#tag-5---28042026) |
+| 24.04. | 1 | 5.5 | 23.2°C | 14h | 30% | [Anzucht Start](#tag-1---24042026) |
+| 25.04. | 2 | 5.5 | 23.5°C | 14h | 30% | [Anzucht Start](#tag-2---25042026) |
+| 26.04. | 3 | 5.5 | 23°C | 14h | 30% | System bleibt geschlossen |
+| 27.04. | 4 | 5.5 | 23.6°C | 14h | 30% | System bleibt geschlossen |
+| 28.04. | 5 | 5.5 | 23.7°C | 14h | 30% | [Anzucht Start](#tag-5---28042026) |
+| 29.04. | 6 | 5.5 | 23.6°C | 14h | 30% | [Anzucht Start](#tag-6---29042026) |
 
 ### 📝 Tages-Einträge
 
@@ -57,6 +58,14 @@ Dunstbildung erfolgreich, Dichtung hält, System bleibt die nächsten Tage in si
 #### Tag 5 - 28.04.2026
 
 System bleibt weiter in sich geschlossen. Aber in einem seperaten Behälter nochmals Steinwolle in 5.5 PH Wasser eingelegt um die Tomatensamen morgen mitkeimen zu lassen.
+
+#### Tag 6 - 29.04.2026
+
+Bei den Erdbeeren ist noch keine Keimung sichtbar, die Steinwolle ist jedoch weiterhin sehr feucht und der Deckel stark mit Kondenswasser bedeckt. Die gestern eingeweichte Steinwolle wurde in die freien Plätze des Eiswürfelfachs gesetzt und mit jeweils zwei San Marzano Tomatensamen bestückt. Mit einem Hölzchen wurden die Samen ca. 0,5 cm tief eingedrückt. Zur Sicherung der Luftfeuchtigkeit wurde ein kleiner Schluck pH 5.5 Wasser nachgefüllt. Das System ist nun wieder komplett luftdicht mit Folie, Tape und Gläsern versiegelt.
+
+![Projekt 2](assets/Day6/PXL_20260429_041757463.jpg)
+
+![Projekt 2](assets/Day6/PXL_20260429_042141809.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
