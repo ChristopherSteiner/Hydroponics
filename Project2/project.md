@@ -73,7 +73,7 @@ Bei den Erdbeeren ist noch keine Keimung sichtbar, die Steinwolle ist jedoch wei
 
 #### Tag 10 - 03.05.2026
 
-Das pH-Meter mit den neuen Lösungen (7.0 und 4.01) kalibriert. Da zwei Tomaten bereits kräftig gekeimt sind, wurde die Folie komplett entfernt und das Wasser in der Box mit pH-Minus auf exakt 5.5 eingestellt. Die Steinwolle-Blöcke haben nun direkten Kontakt zum Wasser, und die Lichtintensität wurde auf 40% erhöht, damit die Keimlinge nicht spargeln.
+Das pH-Meter mit den neuen Lösungen (7.0 und 4.01) kalibriert. Da zwei Tomaten bereits kräftig gekeimt sind, wurde die Folie komplett entfernt und das Wasser in der Box mit pH-Minus auf exakt 5.5 eingestellt. Die Steinwolle-Blöcke haben nun direkten Kontakt zum Wasser, und die Lichtintensität wurde auf 40% erhöht, damit die Keimlinge nicht spargeln und um das Wachstum der ersten Keimlinge zu unterstützen.
 
 ![Projekt 2](assets/Day10/PXL_20260503_062735598.jpg)
 
