@@ -21,15 +21,19 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 
 ### 📊 Messwerte Übersicht
 
-| Datum | Tag | pH | Temp Luft | Beleuchtungszeit | Intensität | Notiz / Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 23.04. | 0 | 5.5 | 22.6°C | - | 0% | [Anzucht Start](#tag-0---23042026) |
-| 24.04. | 1 | 5.5 | 23.2°C | 14h | 30% | [Anzucht Start](#tag-1---24042026) |
-| 25.04. | 2 | 5.5 | 23.5°C | 14h | 30% | [Anzucht Start](#tag-2---25042026) |
-| 26.04. | 3 | 5.5 | 23°C | 14h | 30% | System bleibt geschlossen |
-| 27.04. | 4 | 5.5 | 23.6°C | 14h | 30% | System bleibt geschlossen |
-| 28.04. | 5 | 5.5 | 23.7°C | 14h | 30% | [Anzucht Start](#tag-5---28042026) |
-| 29.04. | 6 | 5.5 | 23.6°C | 14h | 30% | [Anzucht Start](#tag-6---29042026) |
+| Datum | Tag | pH | Temp Luft | Temp Wasser | Beleuchtungszeit | Intensität | Notiz / Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 23.04. | 0 | 5.5 | 22.6°C | - | - | 0% | [Einweichen & Vorbereitung](#tag-0---23042026) |
+| 24.04. | 1 | 5.5 | 23.2°C | - | 14h | 30% | [Start Erdbeeren](#tag-1---24042026) |
+| 25.04. | 2 | 5.5 | 23.5°C | - | 14h | 30% | [Klima-Check](#tag-2---25042026) |
+| 26.04. | 3 | 5.5 | 23°C | - | 14h | 30% | System bleibt geschlossen |
+| 27.04. | 4 | 5.5 | 23.6°C | - | 14h | 30% | System bleibt geschlossen |
+| 28.04. | 5 | 5.5 | 23.7°C | - | 14h | 30% | [Tomaten Vorbereitung](#tag-5---28042026) |
+| 29.04. | 6 | 5.5 | 23.6°C | - | 14h | 30% | [Aussaat Tomaten](#tag-6---29042026) |
+| 30.04. | 7 | - | - | - | 14h | 30% | System bleibt geschlossen |
+| 01.05. | 8 | - | - | - | 14h | 30% | System bleibt geschlossen |
+| 02.05. | 9 | - | - | - | 14h | 30% | System bleibt geschlossen |
+| 03.05. | 10 | 5.5 | 23.7°C | 18.3°C | 14h | 40% | [Systemöffnung & pH-Optimierung](#tag-10---03052026) |
 
 ### 📝 Tages-Einträge
 
@@ -66,6 +70,16 @@ Bei den Erdbeeren ist noch keine Keimung sichtbar, die Steinwolle ist jedoch wei
 ![Projekt 2](assets/Day6/PXL_20260429_041757463.jpg)
 
 ![Projekt 2](assets/Day6/PXL_20260429_042141809.jpg)
+
+#### Tag 10 - 03.05.2026
+
+Das pH-Meter mit den neuen Lösungen (7.0 und 4.01) kalibriert. Da zwei Tomaten bereits kräftig gekeimt sind, wurde die Folie komplett entfernt und das Wasser in der Box mit pH-Minus auf exakt 5.5 eingestellt. Die Steinwolle-Blöcke haben nun direkten Kontakt zum Wasser, und die Lichtintensität wurde auf 40% erhöht, damit die Keimlinge nicht spargeln.
+
+![Projekt 2](assets/Day10/PXL_20260503_062735598.jpg)
+
+![Projekt 2](assets/Day10/PXL_20260503_063443848.jpg)
+
+![Projekt 2](assets/Day10/PXL_20260503_063825277.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
