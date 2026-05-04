@@ -34,6 +34,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 01.05. | 8 | - | - | - | 14h | 30% | System bleibt geschlossen |
 | 02.05. | 9 | - | - | - | 14h | 30% | System bleibt geschlossen |
 | 03.05. | 10 | 5.5 | 23.7°C | 18.3°C | 14h | 40% | [Systemöffnung & pH-Optimierung](#tag-10---03052026) |
+| 04.05. | 11 | 5.8 | 23.9°C | 19.7°C | 14h | 40% | [Erste keimende Erdbeere](#tag-11---04052026) |
 
 ### 📝 Tages-Einträge
 
@@ -80,6 +81,14 @@ Das pH-Meter mit den neuen Lösungen (7.0 und 4.01) kalibriert. Da zwei Tomaten 
 ![Projekt 2](assets/Day10/PXL_20260503_063443848.jpg)
 
 ![Projekt 2](assets/Day10/PXL_20260503_063825277.jpg)
+
+#### Tag 11 - 04.05.2026
+
+Erste Erdbeere zeigt eine helle Spitze am Samen (linker Samen in der Makro-Aufnahme). Die Tomaten wachsen weiter kräftig Richtung Licht und auch auf der dritten Tomaten-Steinwolle beginnt die Keimung. Heizmatte ausgestellt und entfernt (hätte gestern passieren müssen), da das Wasser durch die Matte auf kritische 29.4°C gestiegen war. Wasser komplett gegen frisches, 19.7°C kühles Wasser mit pH 5.8 getauscht, um Sauerstoffgehalt zu erhöhen und Hitzestress zu stoppen.
+
+![Projekt 2](assets/Day11/PXL_20260504_052011926.jpg)
+
+![Projekt 2](assets/Day11/PXL_20260504_052047059.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
