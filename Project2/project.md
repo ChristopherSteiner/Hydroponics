@@ -35,6 +35,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 02.05. | 9 | - | - | - | 14h | 30% | System bleibt geschlossen |
 | 03.05. | 10 | 5.5 | 23.7°C | 18.3°C | 14h | 40% | [Systemöffnung & pH-Optimierung](#tag-10---03052026) |
 | 04.05. | 11 | 5.8 | 23.9°C | 19.7°C | 14h | 40% | [Erste keimende Erdbeere](#tag-11---04052026) |
+| 05.05. | 12 | 6 | 24.3°C | 23.6°C | 14h | 40% | [Box erhöht](#tag-12---05052026) |
 
 ### 📝 Tages-Einträge
 
@@ -89,6 +90,12 @@ Erste Erdbeere zeigt eine helle Spitze am Samen (linker Samen in der Makro-Aufna
 ![Projekt 2](assets/Day11/PXL_20260504_052011926.jpg)
 
 ![Projekt 2](assets/Day11/PXL_20260504_052047059.jpg)
+
+#### Tag 12 - 05.05.2026
+
+Keimbox nochmals etwas erhöht, so dass sie näher bei der Lampe ist und die Tomaten weniger spargeln.
+
+![Projekt 2](assets/Day12/PXL_20260505_051501976.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
