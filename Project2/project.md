@@ -37,6 +37,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 04.05. | 11 | 5.8 | 23.9°C | 19.7°C | 14h | 40% | [Erste keimende Erdbeere](#tag-11---04052026) |
 | 05.05. | 12 | 6 | 24.3°C | 23.6°C | 14h | 40% | [Box erhöht](#tag-12---05052026) |
 | 06.05. | 13 | 6.3 | 24.1°C | 23.6°C | 14h | 40% | [Echte Blätter](#tag-13---06052026) |
+| 07.05. | 14 | 6.3 | 24.1°C | 23.6°C | 14h | 40% | - |
 
 ### 📝 Tages-Einträge
 
