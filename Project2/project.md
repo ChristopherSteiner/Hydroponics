@@ -39,6 +39,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 06.05. | 13 | 6.3 | 24.1°C | 23.6°C | 14h | 40% | [Echte Blätter](#tag-13---06052026) |
 | 07.05. | 14 | 6.3 | 24.1°C | 23.6°C | 14h | 40% | - |
 | 08.05. | 15 | 6.5 | 24.6°C | 23.7°C | 14h | 40% | - |
+| 09.05. | 16 | 5.7 | 23.8°C | 20.8°C | 14h | 40% | [Wasserwechsel](#tag-16---09052026) |
 
 ### 📝 Tages-Einträge
 
@@ -107,6 +108,12 @@ Die erste Erdbeere ist deutlich gekeimt und schiebt sich aus der Wolle. Bei den 
 ![Projekt 2](assets/Day13/PXL_20260506_152855726.jpg)
 
 ![Projekt 2](assets/Day13/PXL_20260506_152908559.jpg)
+
+#### Tag 16 - 09.05.2026
+
+Wasser im Behälter gewechselt und neu kalibriert mit PH Down.
+
+![Projekt 2](assets/Day16/PXL_20260509_043150604.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
