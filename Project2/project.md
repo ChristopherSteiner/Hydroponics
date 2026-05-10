@@ -40,6 +40,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 07.05. | 14 | 6.3 | 24.1°C | 23.6°C | 14h | 40% | - |
 | 08.05. | 15 | 6.5 | 24.6°C | 23.7°C | 14h | 40% | - |
 | 09.05. | 16 | 5.7 | 23.8°C | 20.8°C | 14h | 40% | [Wasserwechsel](#tag-16---09052026) |
+| 10.05. | 16 | 6.1 | 24.1°C | 23.5°C | 14h | 60% | [Weitere Erdbeeren](#tag-17---10052026) |
 
 ### 📝 Tages-Einträge
 
@@ -114,6 +115,14 @@ Die erste Erdbeere ist deutlich gekeimt und schiebt sich aus der Wolle. Bei den 
 Wasser im Behälter gewechselt und neu kalibriert mit PH Down.
 
 ![Projekt 2](assets/Day16/PXL_20260509_043150604.jpg)
+
+#### Tag 17 - 10.05.2026
+
+Die erste Tomaten-Wurzel ragt bereits mehrere Zentimeter aus der Box. pH-Wert ist auf 6.1 gestiegen (Temp 23.5°C), bleibt aber vorerst stabil. Drei weitere Erdbeer-Samen zeigen erste Lebenszeichen. Da die Tomaten echte Blätter haben wird die Lichtintensität erhöht auf 60% um die Erdbeeren zu beschleunigen.
+
+![Projekt 2](assets/Day17/PXL_20260510_071953891.jpg)
+
+![Projekt 2](assets/Day17/PXL_20260510_072230541.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
