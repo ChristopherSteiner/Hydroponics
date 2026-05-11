@@ -40,7 +40,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 07.05. | 14 | 6.3 | 24.1°C | 23.6°C | 14h | 40% | - |
 | 08.05. | 15 | 6.5 | 24.6°C | 23.7°C | 14h | 40% | - |
 | 09.05. | 16 | 5.7 | 23.8°C | 20.8°C | 14h | 40% | [Wasserwechsel](#tag-16---09052026) |
-| 10.05. | 16 | 6.1 | 24.1°C | 23.5°C | 14h | 60% | [Weitere Erdbeeren](#tag-17---10052026) |
+| 10.05. | 17 | 6.1 | 24.1°C | 23.5°C | 14h | 60% | [Weitere Erdbeeren](#tag-17---10052026) |
+| 11.05. | 18 | 6.0 | 24.6°C | 23.3°C | 14h | 60% | [Weitere Erdbeeren](#tag-18---11052026) |
 
 ### 📝 Tages-Einträge
 
@@ -123,6 +124,12 @@ Die erste Tomaten-Wurzel ragt bereits mehrere Zentimeter aus der Box. pH-Wert is
 ![Projekt 2](assets/Day17/PXL_20260510_071953891.jpg)
 
 ![Projekt 2](assets/Day17/PXL_20260510_072230541.jpg)
+
+#### Tag 18 - 11.05.2026
+
+Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimblätter ersten Nährstoffbedarf an. Die Pionier-Erdbeere beginnt ebenfalls mit der Bildung echter Blätter.
+
+![Projekt 2](assets/Day18/PXL_20260511_142318139.jpg)
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
