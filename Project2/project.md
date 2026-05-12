@@ -40,10 +40,11 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 07.05. | 14 | 6.3 | 24.1°C | 23.6°C | 14h | 40% | - |
 | 08.05. | 15 | 6.5 | 24.6°C | 23.7°C | 14h | 40% | - |
 | 09.05. | 16 | 5.7 | 23.8°C | 20.8°C | 14h | 40% | [Wasserwechsel](#tag-16---09052026) |
-| 10.05. | 17 | 6.1 | 24.1°C | 23.5°C | 14h | 60% | [Weitere Erdbeeren](#tag-17---10052026) |
-| 11.05. | 18 | 6.0 | 24.6°C | 23.3°C | 14h | 60% | [Weitere Erdbeeren](#tag-18---11052026) |
+| 10.05. | 17 | 6.1 | 24.1°C | 23.5°C | 14h | 40% | [Weitere Erdbeeren](#tag-17---10052026) |
+| 11.05. | 18 | 6.0 | 24.6°C | 23.3°C | 14h | 40% | [Weitere Erdbeeren](#tag-18---11052026) |
+| 12.05. | 19 | 6.1 | 24.4°C | 23.3°C | 14h | 60% | [Umzug Tomaten](#tag-19---12052026) |
 
-### 📝 Tages-Einträge
+### 📝 Tages-Einträge Phase 1
 
 #### Tag 0 - 23.04.2026
 
@@ -119,7 +120,7 @@ Wasser im Behälter gewechselt und neu kalibriert mit PH Down.
 
 #### Tag 17 - 10.05.2026
 
-Die erste Tomaten-Wurzel ragt bereits mehrere Zentimeter aus der Box. pH-Wert ist auf 6.1 gestiegen (Temp 23.5°C), bleibt aber vorerst stabil. Drei weitere Erdbeer-Samen zeigen erste Lebenszeichen. Da die Tomaten echte Blätter haben wird die Lichtintensität erhöht auf 60% um die Erdbeeren zu beschleunigen.
+Die erste Tomaten-Wurzel ragt bereits mehrere Zentimeter aus der Box. pH-Wert ist auf 6.1 gestiegen (Temp 23.5°C), bleibt aber vorerst stabil. Drei weitere Erdbeer-Samen zeigen erste Lebenszeichen.
 
 ![Projekt 2](assets/Day17/PXL_20260510_071953891.jpg)
 
@@ -135,7 +136,21 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 
 | Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Licht | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| *noch* | *keine* | *Daten* | *(Phase 1* | *läuft* | *gerade)* | - | - | - | - | - |
+| 12.05.2026 | 19 | 5.9 | - | - | - | 24.4°C | 26.2°C | - | 60% | [Umzug Tomaten](#tag-19---12052026) |
+
+### 📝 Tages-Einträge Phase 2
+
+#### Tag 19 - 12.05.2026
+
+Da die echten Blätter der Tomaten langsam gelblich wurden sind die Tomaten in die Rako-Box umgezogen. Momentan noch etwas warmes Wasser aber der Luftstein kühlt es mit der Pumpe hoffentlich über Nacht ab. Es sind ca 35 Liter Wasser in der Box mit je 17.5ml Terra Aquatica Tripart Micro, Grow und Bloom. Jeweils auch in der Reihenfolge gemäss Hersteller Empfehlung ins Wasser gemischt. Anschliessend mit nicht ganz 50ml PH Down den PH Wert auf 5.9 korrigiert. Der kleinere Keimlinge pro Steinwolle wurde abgeschnitten, die Steinwolle in den Netztopf gelegt und mit Blähton aufgefüllt.
+
+Da die Tomaten jetzt wieder etwas weiter entfernt von der Lampe sind, auf 60% hochgestellt, damit die Erdbeeren nochmals richtig viel Lichtbekommen.
+
+Die Erdbeeren bleiben vorerst in Phase 1.
+
+![Projekt 2](assets/Day19/PXL_20260512_144626221.jpg)
+
+![Projekt 2](assets/Day19/PXL_20260512_145648760.jpg)
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
