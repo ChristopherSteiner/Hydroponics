@@ -43,6 +43,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 10.05. | 17 | 6.1 | 24.1°C | 23.5°C | 14h | 40% | [Weitere Erdbeeren](#tag-17---10052026) |
 | 11.05. | 18 | 6.0 | 24.6°C | 23.3°C | 14h | 40% | [Weitere Erdbeeren](#tag-18---11052026) |
 | 12.05. | 19 | 6.1 | 24.4°C | 23.3°C | 14h | 60% | [Umzug Tomaten](#tag-19---12052026) |
+| 13.05. | 20 | - | - | - | 14h | 60% | - |
+| 14.05. | 21 | 5.9 | 23.5°C | 21°C | 14h | 60% | [Wartung](#tag-21---14052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -137,6 +139,8 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Licht | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 12.05.2026 | 19 | 5.9 | - | - | - | 24.4°C | 26.2°C | - | 60% | [Umzug Tomaten](#tag-19---12052026) |
+| 13.05.2026 | 20 | - | - | - | - | - | - | - | 60% | - |
+| 14.05.2026 | 21 | 6 | - | - | - | 23.5°C | 23.8°C | - | 60% | [Wartung](#tag-21---14052026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -151,6 +155,19 @@ Die Erdbeeren bleiben vorerst in Phase 1.
 ![Projekt 2](assets/Day19/PXL_20260512_144626221.jpg)
 
 ![Projekt 2](assets/Day19/PXL_20260512_145648760.jpg)
+
+#### Tag 21 - 14.05.2026
+
+Gestern war das System sich selbst überlassen, Morgen nochmals. Darum bei den Tomaten den PH Wert von ca 6.5 mit etwas PH Down wieder auf ca. 6 reduziert, das Wasser ist unteranderem dank der Luftzirkulation der Pumpe auf ein gutes Niveau abgekühlt.
+Ausserdem das Wasser der Erdbeeren im Tupper erneuert und schon ein wenig Dünger ins Tupper gegeben um den Wachstum zu beschleunigen.
+
+![Projekt 2](assets/Day21/PXL_20260514_053315380.jpg)
+
+![Projekt 2](assets/Day21/PXL_20260514_053326766.jpg)
+
+![Projekt 2](assets/Day21/PXL_20260514_054129066.jpg)
+
+![Projekt 2](assets/Day21/PXL_20260514_054117606.jpg)
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
