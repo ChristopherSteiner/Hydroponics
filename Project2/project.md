@@ -45,6 +45,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 12.05. | 19 | 6.1 | 24.4°C | 23.3°C | 14h | 60% | [Umzug Tomaten](#tag-19---12052026) |
 | 13.05. | 20 | - | - | - | 14h | 60% | - |
 | 14.05. | 21 | 5.9 | 23.5°C | 21°C | 14h | 60% | [Wartung](#tag-21---14052026) |
+| 15.05 | 22 | - | - | - | 14h | 60% | - |
+| 16.05 | 23 | 6.3 | 23.6°C | 22.9°C | 14h | 60% | [Update](#tag-23---16052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -136,11 +138,13 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 
 ## Phase 2: Transfer & Etablierung (Vegetative Phase I)
 
-| Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Licht | Link |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 12.05.2026 | 19 | 5.9 | - | - | - | 24.4°C | 26.2°C | - | 60% | [Umzug Tomaten](#tag-19---12052026) |
-| 13.05.2026 | 20 | - | - | - | - | - | - | - | 60% | - |
-| 14.05.2026 | 21 | 6 | - | - | - | 23.5°C | 23.8°C | - | 60% | [Wartung](#tag-21---14052026) |
+| Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Beleuchtungszeit | Intensität | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 12.05.2026 | 19 | 5.9 | - | - | - | 24.4°C | 26.2°C | - | 14h | 60% | [Umzug Tomaten](#tag-19---12052026) |
+| 13.05.2026 | 20 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 14.05.2026 | 21 | 6 | - | - | - | 23.5°C | 23.8°C | - | 14h | 60% | [Wartung](#tag-21---14052026) |
+| 15.05.2026 | 22 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 16.05.2026 | 23 | 5.9 | - | - | - | 23.5°C | 22.9°C | - | 14h | 60% | [Update](#tag-23---14052026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -168,6 +172,18 @@ Ausserdem das Wasser der Erdbeeren im Tupper erneuert und schon ein wenig Dünge
 ![Projekt 2](assets/Day21/PXL_20260514_054129066.jpg)
 
 ![Projekt 2](assets/Day21/PXL_20260514_054117606.jpg)
+
+#### Tag 23 - 16.05.2026
+
+Rückerkehr nachdem das System ca. 48h sich selber überlassen war.
+Bei den Erdbeeren sind jetzt 5 Keimlinge gut erkennbar, ein sechster könnte kurz vor dem Durchbruch sein. Der Keimling mit dem echten Blatt hat auch bereits eine Wurzel bis ins Wasser direkt gebildet.
+Die Tomaten haben grosse Fortschritte gemacht, jede Pflanze hat mehrere neue Wurzelstränge gebildet und die Blätter sind sowohl merklich gewachsen, als auch neue gewachsen. Alle Pflanzen scheinen eine gesunde Farbe zu haben.
+
+![Projekt 2](assets/Day23/PXL_20260516_113849787.jpg)
+
+![Projekt 2](assets/Day23/PXL_20260516_113857300.jpg)
+
+![Projekt 2](assets/Day23/PXL_20260516_113905313.jpg)
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
