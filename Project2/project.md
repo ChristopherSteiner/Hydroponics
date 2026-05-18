@@ -47,6 +47,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 14.05. | 21 | 5.9 | 23.5°C | 21°C | 14h | 60% | [Wartung](#tag-21---14052026) |
 | 15.05 | 22 | - | - | - | 14h | 60% | - |
 | 16.05 | 23 | 6.3 | 23.6°C | 22.9°C | 14h | 60% | [Update](#tag-23---16052026) |
+| 17.05 | 24 | - | - | - | 14h | 60% | - |
+| 18.05 | 23 | 6.5 | 23.9°C | 23.3°C | 14h | 60% | [Update](#tag-26---18052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -145,6 +147,8 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | 14.05.2026 | 21 | 6 | - | - | - | 23.5°C | 23.8°C | - | 14h | 60% | [Wartung](#tag-21---14052026) |
 | 15.05.2026 | 22 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 16.05.2026 | 23 | 5.9 | - | - | - | 23.5°C | 22.9°C | - | 14h | 60% | [Update](#tag-23---16052026) |
+| 17.05.2026 | 24 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 18.05.2026 | 25 | 6 | - | - | - | 23.9°C | 23.3°C | - | 14h | 60% | [Update](#tag-25---18052026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -184,6 +188,16 @@ Die Tomaten haben grosse Fortschritte gemacht, jede Pflanze hat mehrere neue Wur
 ![Projekt 2](assets/Day23/PXL_20260516_113857300.jpg)
 
 ![Projekt 2](assets/Day23/PXL_20260516_113905313.jpg)
+
+#### Tag 25 - 18.05.2026
+
+System war nochmals ca. 48h sich selber überlassen.
+Die Pflanzen wachsen grundsätzlich gut, bei den Erdbeeren hat jetzt eine zweite Pflanze Wurzeln bis ins Wasser gebildet.
+Die Tomaten wachsen weiterhin relativ schnell, vorallem der Stamm der Pflanzen ist merklich dicker geworden.
+
+![Projekt 2](assets/Day25/PXL_20260518_132126321.jpg)
+
+![Projekt 2](assets/Day25/PXL_20260518_132130403.jpg)
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
