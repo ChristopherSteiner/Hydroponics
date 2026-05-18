@@ -48,7 +48,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 15.05 | 22 | - | - | - | 14h | 60% | - |
 | 16.05 | 23 | 6.3 | 23.6°C | 22.9°C | 14h | 60% | [Update](#tag-23---16052026) |
 | 17.05 | 24 | - | - | - | 14h | 60% | - |
-| 18.05 | 23 | 6.5 | 23.9°C | 23.3°C | 14h | 60% | [Update](#tag-26---18052026) |
+| 18.05 | 25 | 6.5 | 23.9°C | 23.3°C | 14h | 60% | [Update](#tag-25---18052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
