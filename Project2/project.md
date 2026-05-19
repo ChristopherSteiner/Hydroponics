@@ -49,6 +49,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 16.05 | 23 | 6.3 | 23.6°C | 22.9°C | 14h | 60% | [Update](#tag-23---16052026) |
 | 17.05 | 24 | - | - | - | 14h | 60% | - |
 | 18.05 | 25 | 6.5 | 23.9°C | 23.3°C | 14h | 60% | [Update](#tag-25---18052026) |
+| 19.05 | 26 | 5.9 | 24°C | 22.7°C | 14h | 60% | [Update](#tag-26---19052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -149,6 +150,7 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | 16.05.2026 | 23 | 5.9 | - | - | - | 23.5°C | 22.9°C | - | 14h | 60% | [Update](#tag-23---16052026) |
 | 17.05.2026 | 24 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 18.05.2026 | 25 | 6 | - | - | - | 23.9°C | 23.3°C | - | 14h | 60% | [Update](#tag-25---18052026) |
+| 19.05.2026 | 26 | 5.9 | - | - | - | - | 24°C | 23.2° | 14h | 60% | [Update](#tag-26---19052026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -198,6 +200,11 @@ Die Tomaten wachsen weiterhin relativ schnell, vorallem der Stamm der Pflanzen i
 ![Projekt 2](assets/Day25/PXL_20260518_132126321.jpg)
 
 ![Projekt 2](assets/Day25/PXL_20260518_132130403.jpg)
+
+#### Tag 26 - 19.05.2026
+
+Die Tomatenwerte bleiben stabil, keine Anpassungen.
+Da der PH-Wert bei den Erdbeeren langsam die Grenze von 6.5 überschritt neues Wasser in das Tupper gegeben. Es scheint noch ein 6. Keimling zu kommen, bis die anderen 5 deutliche Wurzeln im Wasser haben bleiben sie im Tupper.
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
