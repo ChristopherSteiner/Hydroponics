@@ -214,13 +214,13 @@ Das Wurzelwachstum der Tomaten wächst weiter und es hat sich innerhalb weniger 
 
 Mittlerweile zeigen zwei Keimlinge lange Wurzeln an der Unterseite der Form, und drei weitere Pflanzen holen bei der Entwicklung der echten Blätter stark auf. Eine leichte Algenbildung (dunkler Fleck) auf einem Steinwollwürfel ist unbedenklich. Das System bleibt unverändert.
 
-![Projekt 2](assets/Day27/PXL_20260520_164657558.jpg)
+![Projekt 2](assets/Day26/PXL_20260520_164657558.jpg)
 
-![Projekt 2](assets/Day27/PXL_20260520_164642844.jpg)
+![Projekt 2](assets/Day26/PXL_20260520_164642844.jpg)
 
-![Projekt 2](assets/Day27/PXL_20260520_164722690.jpg)
+![Projekt 2](assets/Day26/PXL_20260520_164722690.jpg)
 
-![Projekt 2](assets/Day27/PXL_20260520_164646912.jpg)
+![Projekt 2](assets/Day26/PXL_20260520_164646912.jpg)
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
