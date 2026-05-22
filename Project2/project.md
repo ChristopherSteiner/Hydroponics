@@ -51,6 +51,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 18.05 | 25 | 6.5 | 23.9°C | 23.3°C | 14h | 60% | [Update](#tag-25---18052026) |
 | 19.05 | 26 | 5.9 | 24°C | 22.7°C | 14h | 60% | [Update](#tag-26---19052026) |
 | 20.05 | 27 | 6.2 | 24.2°C | 23.9°C | 14h | 60% | [Update](#tag-27---20052026) |
+| 21.05 | 28 | - | - | - | 14h | 60% | - |
+| 22.05 | 29 | 6.4 | 24.4°C | 24°C | 14h | 60% | - |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -153,6 +155,8 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | 18.05.2026 | 25 | 6 | - | - | - | 23.9°C | 23.3°C | - | 14h | 60% | [Update](#tag-25---18052026) |
 | 19.05.2026 | 26 | 5.9 | - | - | - | - | 24°C | 23.2°C | 14h | 60% | [Update](#tag-26---19052026) |
 | 20.05.2026 | 27 | 6 | - | - | - | - | 24.2°C | 23.1°C | 14h | 60% | [Update](#tag-27---20052026) |
+| 21.05.2026 | 28 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 22.05.2026 | 29 | 6.1 | - | - | - | - | 24.4°C | 23.4°C | 14h | 60% | [Update](#tag-29---22052026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -214,13 +218,23 @@ Das Wurzelwachstum der Tomaten wächst weiter und es hat sich innerhalb weniger 
 
 Mittlerweile zeigen zwei Keimlinge lange Wurzeln an der Unterseite der Form, und drei weitere Pflanzen holen bei der Entwicklung der echten Blätter stark auf. Eine leichte Algenbildung (dunkler Fleck) auf einem Steinwollwürfel ist unbedenklich. Das System bleibt unverändert.
 
-![Projekt 2](assets/Day26/PXL_20260520_164657558.jpg)
+![Projekt 2](assets/Day27/PXL_20260520_164657558.jpg)
 
-![Projekt 2](assets/Day26/PXL_20260520_164642844.jpg)
+![Projekt 2](assets/Day27/PXL_20260520_164642844.jpg)
 
-![Projekt 2](assets/Day26/PXL_20260520_164722690.jpg)
+![Projekt 2](assets/Day27/PXL_20260520_164722690.jpg)
 
-![Projekt 2](assets/Day26/PXL_20260520_164646912.jpg)
+![Projekt 2](assets/Day27/PXL_20260520_164646912.jpg)
+
+#### Tag 29 - 22.05.2026
+
+Das System läuft nach wie vor stabil. Die Tomaten legen massiv an Blattvolumen und Stammbreite zu, sodass sich die Blätter der benachbarten Pflanzen bereits kreuzen. Das Laub ist tiefgrün und kräftig, neigt sich aber durch das Eigengewicht leicht nach unten. Am Wochenende wird hier das Wasser gewechselt und beim Dünger auf die "Growing" Mischung umgestellt, da aktuell der Dünger etwas knapp ist für die grossen Pflanzen (immer noch "1st roots" Mischung, "first true leaves" wurde übersprungen). Damit werden die Tomaten auch in Phase 3 über gehen, leider hat es mit dem Timing überhaupt nicht so geklappt wie vorgestellt, da die Erdbeeren immer noch Phase 1 sind.
+
+Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bisher erst zwei Pflanzen lange Wurzeln durch die Unterseite geschoben haben, verbleibt das gesamte Kollektiv vorerst im Tupper-Setup, um den Nachzüglern Zeit zu geben. Auch hier wird es am Wochenende nochmals einen Wasserwechsel geben da das Wasser relativ warm ist und Umstellung auf die "first true leaves" Mischung.
+
+![Projekt 2](assets/Day28/PXL_20260522_105242480.jpg)
+
+![Projekt 2](assets/Day28/PXL_20260522_105247081.jpg)
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
 
