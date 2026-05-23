@@ -52,7 +52,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 19.05 | 26 | 5.9 | 24°C | 22.7°C | 14h | 60% | [Update](#tag-26---19052026) |
 | 20.05 | 27 | 6.2 | 24.2°C | 23.9°C | 14h | 60% | [Update](#tag-27---20052026) |
 | 21.05 | 28 | - | - | - | 14h | 60% | - |
-| 22.05 | 29 | 6.4 | 24.4°C | 24°C | 14h | 60% | - |
+| 22.05 | 29 | 6.4 | 24.4°C | 24°C | 14h | 60% | [Update](#tag-29---22052026) |
+| 23.05 | 30 | 5.9 | 24.4°C | 17.9°C | 14h | 60% | [Update](#tag-30---23052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -232,10 +233,24 @@ Das System läuft nach wie vor stabil. Die Tomaten legen massiv an Blattvolumen 
 
 Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bisher erst zwei Pflanzen lange Wurzeln durch die Unterseite geschoben haben, verbleibt das gesamte Kollektiv vorerst im Tupper-Setup, um den Nachzüglern Zeit zu geben. Auch hier wird es am Wochenende nochmals einen Wasserwechsel geben da das Wasser relativ warm ist und Umstellung auf die "first true leaves" Mischung.
 
-![Projekt 2](assets/Day28/PXL_20260522_105242480.jpg)
+![Projekt 2](assets/Day29/PXL_20260522_105242480.jpg)
 
-![Projekt 2](assets/Day28/PXL_20260522_105247081.jpg)
+![Projekt 2](assets/Day29/PXL_20260522_105247081.jpg)
 
 ## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
+
+| Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Beleuchtungszeit | Intensität | Link |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 23.05.2026 | 30 | 6 | - | - | - | 24.3°C | 22.7°C | - | 14h | 60% | [Umzug Tomaten](#tag-30---23052026) |
+
+### Tag 30 - 23.05.2026
+
+Bei den Tomaten den Dünger gewechselt, ca. 30 Liter Wasser mit der Dünger-Formel für "growing" (36ml Micro, 54ml Grow, 18ml Bloom), PH mit ca. 30ml PH-Down runter korrigiert.
+
+Bei den Erdbeeren ebenfalls das Wasser gewechselt. Für das Tupper haben sich 2 Liter als ideale Menge herausgestellt, damit die Steinwollblöcke zur Hälfte im Wasser sitzen und die Feuchtigkeit hochziehen können. Beim Dünger auf die "First True Leaves"-Mischung umgestellt (je 2 ml Micro, Grow, Bloom). Das frische Leitungswasser ist noch etwas kalt, wird sich aber unter der Lampe schnell anpassen. Die größte Erdbeere zeigt bereits einen kräftigen, rötlichen Neuaustrieb im Zentrum.
+
+![Projekt 2](assets/Day30/PXL_20260523_064517542.jpg)
+
+![Projekt 2](assets/Day30/PXL_20260523_064530643.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
