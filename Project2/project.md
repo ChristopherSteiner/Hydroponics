@@ -54,6 +54,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 21.05 | 28 | - | - | - | 14h | 60% | - |
 | 22.05 | 29 | 6.4 | 24.4°C | 24°C | 14h | 60% | [Update](#tag-29---22052026) |
 | 23.05 | 30 | 5.9 | 24.4°C | 17.9°C | 14h | 60% | [Update](#tag-30---23052026) |
+| 24.05. | 31 | 6.1 | 25.1°C | 24.7°C | 14h | 60% | [Update](#tag-31---24052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -242,6 +243,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Beleuchtungszeit | Intensität | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23.05.2026 | 30 | 6 | - | - | - | 24.3°C | 22.7°C | - | 14h | 60% | [Umzug Tomaten](#tag-30---23052026) |
+| 24.05.2026 | 31 | 6.1 | - | - | - | 25.1°C | 23.7°C | - | 14h | 60% | [Update](#tag-31---24052026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -252,5 +254,17 @@ Bei den Erdbeeren ebenfalls das Wasser gewechselt. Für das Tupper haben sich 2 
 ![Projekt 2](assets/Day30/PXL_20260523_064517542.jpg)
 
 ![Projekt 2](assets/Day30/PXL_20260523_064530643.jpg)
+
+#### Tag 31 - 24.05.2026
+
+Der pH bei den Tomaten ist nach dem gestrigen Wasserwechsel auf 6.5 gestiegen, mit etwas pH-Down wieder auf 6.1 korrigiert. Nach einem kompletten Wechsel mit neuer Düngerformel ist so ein Anstieg normal. Morgen kommt das Zwischentablar raus, damit die Pflanzen auf ca. 1m Abstand zur Lampe kommen – sie stehen ihr im Moment sehr nah.
+
+Die Erdbeeren laufen stabil im Tupper weiter. Der Umzug in die eigene Rakobox folgt sobald noch eine weitere beschafft ist, damit sie höher als die Tomaten gestapelt werden können und nah genug an der Lampe bleiben.
+
+![Projekt 2](assets/Day31/PXL_20260524_052210607.jpg)
+
+![Projekt 2](assets/Day31/PXL_20260524_052218835.jpg)
+
+![Projekt 2](assets/Day31/PXL_20260524_052221737.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
