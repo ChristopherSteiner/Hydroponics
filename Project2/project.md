@@ -55,6 +55,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 22.05 | 29 | 6.4 | 24.4°C | 24°C | 14h | 60% | [Update](#tag-29---22052026) |
 | 23.05 | 30 | 5.9 | 24.4°C | 17.9°C | 14h | 60% | [Update](#tag-30---23052026) |
 | 24.05. | 31 | 6.1 | 25.1°C | 24.7°C | 14h | 60% | [Update](#tag-31---24052026) |
+| 25.05. | 32 | 6.3 | 25.8°C | 25.1°C | 14h | 60% | [Update](#tag-32---25052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -244,6 +245,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 23.05.2026 | 30 | 6 | - | - | - | 24.3°C | 22.7°C | - | 14h | 60% | [Umzug Tomaten](#tag-30---23052026) |
 | 24.05.2026 | 31 | 6.1 | - | - | - | 25.1°C | 23.7°C | - | 14h | 60% | [Update](#tag-31---24052026) |
+| 25.05.2026 | 32 | 6.3 | - | - | - | 25.8°C | 24.2°C | - | 14h | 60% | [Update](#tag-32---25052026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -266,5 +268,19 @@ Die Erdbeeren laufen stabil im Tupper weiter. Der Umzug in die eigene Rakobox fo
 ![Projekt 2](assets/Day31/PXL_20260524_052218835.jpg)
 
 ![Projekt 2](assets/Day31/PXL_20260524_052221737.jpg)
+
+#### Tag 32 - 25.05.2026
+
+Das Zwischentablar ist draussen, die Tomaten stehen jetzt mit deutlich mehr Abstand zur Lampe. Die Erdbeeren sind rechts so hoch wie möglich aufgestapelt, kommen aber nicht mehr ganz so nah an die Lampe wie zuvor.
+
+Bei einer Pflanze hat ein Blattpaar violette Verfärbungen und kräuselt sich leicht, wahrscheinlich Lichtstress von gestern, als die Pflanzen noch sehr nah an der Lampe standen. Der Rest sieht gut aus. Falls sich das auf neues Laub ausbreitet beim nächsten Wasserwechsel etwas mehr Bloom in die Mischung.
+
+Am Mittwoch kommen neue Rakoboxen, dann ziehen alle Erdbeeren um.
+
+![Projekt 2](assets/Day32/PXL_20260525_123145237.jpg)
+
+![Projekt 2](assets/Day32/PXL_20260525_123148278.jpg)
+
+![Projekt 2](assets/Day32/PXL_20260525_163308136.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
