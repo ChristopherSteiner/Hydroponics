@@ -56,6 +56,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 23.05 | 30 | 5.9 | 24.4°C | 17.9°C | 14h | 60% | [Update](#tag-30---23052026) |
 | 24.05. | 31 | 6.1 | 25.1°C | 24.7°C | 14h | 60% | [Update](#tag-31---24052026) |
 | 25.05. | 32 | 6.3 | 25.8°C | 25.1°C | 14h | 60% | [Update](#tag-32---25052026) |
+| 26.05. | 33 | 6.3 | 26°C | 25.5°C | 14h | 60% | [Update](#tag-33---26052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -246,6 +247,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 23.05.2026 | 30 | 6 | - | - | - | 24.3°C | 22.7°C | - | 14h | 60% | [Umzug Tomaten](#tag-30---23052026) |
 | 24.05.2026 | 31 | 6.1 | - | - | - | 25.1°C | 23.7°C | - | 14h | 60% | [Update](#tag-31---24052026) |
 | 25.05.2026 | 32 | 6.3 | - | - | - | 25.8°C | 24.2°C | - | 14h | 60% | [Update](#tag-32---25052026) |
+| 26.05.2026 | 33 | 6.2 | - | - | - | 26°C | 24.4°C | - | 14h | 60% | [Update](#tag-33---26052026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -282,5 +284,17 @@ Am Mittwoch kommen neue Rakoboxen, dann ziehen alle Erdbeeren um.
 ![Projekt 2](assets/Day32/PXL_20260525_123148278.jpg)
 
 ![Projekt 2](assets/Day32/PXL_20260525_163308136.jpg)
+
+#### Tag 33 - 26.05.2026
+
+Die Tomaten wachsen explosionsartig. Ein grosses Blatt hängt unter seinem Eigengewicht seitlich über den Boxrand, macht aber vor allem deutlich wie gross die Pflanzen bereits sind. Die Wurzeln sind ein dichtes, reinweisses Netz das die ganze Box ausfüllt. Kein weiteres violett dazugekommen, der Lichtstress von Tag 31 hat sich nicht ausgebreitet.
+
+Die Erdbeeren zeigen jetzt bei mehreren Pflanzen Wurzeln aus der Steinwolle und der Umzug in die neue Rakobox am Mittwoch ist damit fällig.
+
+![Projekt 2](assets/Day33/PXL_20260526_104609674.jpg)
+
+![Projekt 2](assets/Day33/PXL_20260526_104614642.jpg)
+
+![Projekt 2](assets/Day33/PXL_20260526_140151051.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
