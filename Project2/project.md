@@ -57,6 +57,8 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 | 24.05. | 31 | 6.1 | 25.1°C | 24.7°C | 14h | 60% | [Update](#tag-31---24052026) |
 | 25.05. | 32 | 6.3 | 25.8°C | 25.1°C | 14h | 60% | [Update](#tag-32---25052026) |
 | 26.05. | 33 | 6.3 | 26°C | 25.5°C | 14h | 60% | [Update](#tag-33---26052026) |
+| 27.05. | 34 | - | - | - | 14h | 60% | - |
+| 28.05. | 35 | 6.4 | - | 24.9°C | 14h | 60% | [Update](#tag-35---28052026) |
 
 ### 📝 Tages-Einträge Phase 1
 
@@ -248,6 +250,8 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 24.05.2026 | 31 | 6.1 | - | - | - | 25.1°C | 23.7°C | - | 14h | 60% | [Update](#tag-31---24052026) |
 | 25.05.2026 | 32 | 6.3 | - | - | - | 25.8°C | 24.2°C | - | 14h | 60% | [Update](#tag-32---25052026) |
 | 26.05.2026 | 33 | 6.2 | - | - | - | 26°C | 24.4°C | - | 14h | 60% | [Update](#tag-33---26052026) |
+| 27.05.2026 | 34 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 28.05.2026 | 35 | 6.2 | - | - | - | - | 24.4°C | - | 14h | 60% | [Update](#tag-35---28052026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -296,5 +300,17 @@ Die Erdbeeren zeigen jetzt bei mehreren Pflanzen Wurzeln aus der Steinwolle und 
 ![Projekt 2](assets/Day33/PXL_20260526_104614642.jpg)
 
 ![Projekt 2](assets/Day33/PXL_20260526_140151051.jpg)
+
+#### Tag 35 - 28.05.2026
+
+Die Rakoboxen sind noch nicht angekommen, die Erdbeeren bleiben damit nochmals im Tupper. Die Wurzeln an der Steinwolle-Basis sehen gut aus, das weisse Flaum-Geflecht sind gesunde Wurzelhaare, kein Schimmel. Eine zweite Luftpumpe (Tetra APS 300) ist bestellt, damit beide Boxen unabhängig belüftet werden können.
+
+Bei den Tomaten wurden einige Geizentriebe entfernt, die Pflanzen wirken dadurch etwas offener.
+
+![Projekt 2](assets/Day35/PXL_20260528_050547792.jpg)
+
+![Projekt 2](assets/Day35/PXL_20260528_050601827.jpg)
+
+![Projekt 2](assets/Day35/PXL_20260528_050605751.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
