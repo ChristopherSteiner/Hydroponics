@@ -15,6 +15,7 @@ Mittels Deep Water Culture sollen sowohl Erdbeeren als auch Tomaten gleichzeitig
 - Dünger - Terra Aquatica Tripart Dünger
 - PH - FARMii PH Minus
 - Wasser Pumpe - Luftpumpe Sicce Air Light 1000 60ltr/h
+- Wasser Pumpe 2 - Tetra APS 300 (ab Tag 36)
 - Messgeräte - Aquamaster Tools pH Temp meter P50 Pro, Bluelab EC Mess-Stab Truncheon
 
 ## Phase 1: Anzucht & Keimung (Setzlings-Phase)
@@ -159,10 +160,11 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | 16.05.2026 | 23 | 5.9 | - | - | - | 23.5°C | 22.9°C | - | 14h | 60% | [Update](#tag-23---16052026) |
 | 17.05.2026 | 24 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 18.05.2026 | 25 | 6 | - | - | - | 23.9°C | 23.3°C | - | 14h | 60% | [Update](#tag-25---18052026) |
-| 19.05.2026 | 26 | 5.9 | - | - | - | - | 24°C | 23.2°C | 14h | 60% | [Update](#tag-26---19052026) |
-| 20.05.2026 | 27 | 6 | - | - | - | - | 24.2°C | 23.1°C | 14h | 60% | [Update](#tag-27---20052026) |
+| 19.05.2026 | 26 | 5.9 | - | - | - | 24°C | 23.2°C | - | 14h | 60% | [Update](#tag-26---19052026) |
+| 20.05.2026 | 27 | 6 | - | - | - | 24.2°C | 23.1°C | - | 14h | 60% | [Update](#tag-27---20052026) |
 | 21.05.2026 | 28 | - | - | - | - | - | - | - | 14h | 60% | - |
-| 22.05.2026 | 29 | 6.1 | - | - | - | - | 24.4°C | 23.4°C | 14h | 60% | [Update](#tag-29---22052026) |
+| 22.05.2026 | 29 | 6.1 | - | - | - | 24.4°C | 23.4°C| - | 14h | 60% | [Update](#tag-29---22052026) |
+| 29.05.2026 | 36 | - | 5.9 | - | - | 27.2°C | - | 21.8°C | 14h | 60% | [Umzug Erdbeeren](#tag-36---29052026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -252,6 +254,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 26.05.2026 | 33 | 6.2 | - | - | - | 26°C | 24.4°C | - | 14h | 60% | [Update](#tag-33---26052026) |
 | 27.05.2026 | 34 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 28.05.2026 | 35 | 6.2 | - | - | - | - | 24.4°C | - | 14h | 60% | [Update](#tag-35---28052026) |
+| 29.05.2026 | 36 | 6.3 | - | - | - | 27.2°C | 24.3°C | - | 14h | 60% | [Update](#tag-36---29052026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -312,5 +315,25 @@ Bei den Tomaten wurden einige Geizentriebe entfernt, die Pflanzen wirken dadurch
 ![Projekt 2](assets/Day35/PXL_20260528_050601827.jpg)
 
 ![Projekt 2](assets/Day35/PXL_20260528_050605751.jpg)
+
+#### Tag 36 - 29.05.2026
+
+Nach 35 Tagen im Tupper sind die Erdbeeren endlich in ihre eigene Rakobox umgezogen. Mit 23 Litern Wasser (etwas mehr als die geplanten 20L damit die Netztöpfe tief genug eintauchen) und je 30ml Micro, Grow und Bloom in der richtigen Reihenfolge, pH auf 5.9 eingestellt. Das Pflänzchen hinten rechts macht einen schwachen Eindruck und wird es womöglich nicht schaffen, die anderen fünf stehen gut. Die neue Tetra APS 300 sorgt ab sofort für die Belüftung.
+
+Bei den Tomaten den dicksten Ast jeder Pflanze mit einer Schnur nach oben gebunden da die Äste unter dem Eigengewicht stark durchhingen. Auf der rechten Seite wird der Platz langsam eng.
+
+![Projekt 2](assets/Day36/PXL_20260529_171108894.jpg)
+
+![Projekt 2](assets/Day36/PXL_20260529_171227394.jpg)
+
+![Projekt 2](assets/Day36/PXL_20260529_173048444.jpg)
+
+![Projekt 2](assets/Day36/PXL_20260529_173112870.jpg)
+
+![Projekt 2](assets/Day36/PXL_20260529_175538856.jpg)
+
+![Projekt 2](assets/Day36/PXL_20260529_175550449.jpg)
+
+![Projekt 2](assets/Day36/PXL_20260529_175615210.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
