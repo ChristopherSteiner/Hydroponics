@@ -163,8 +163,10 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | 19.05.2026 | 26 | 5.9 | - | - | - | 24°C | 23.2°C | - | 14h | 60% | [Update](#tag-26---19052026) |
 | 20.05.2026 | 27 | 6 | - | - | - | 24.2°C | 23.1°C | - | 14h | 60% | [Update](#tag-27---20052026) |
 | 21.05.2026 | 28 | - | - | - | - | - | - | - | 14h | 60% | - |
-| 22.05.2026 | 29 | 6.1 | - | - | - | 24.4°C | 23.4°C| - | 14h | 60% | [Update](#tag-29---22052026) |
+| 22.05.2026 | 29 | 6.1 | - | - | - | 24.4°C | 23.4°C | - | 14h | 60% | [Update](#tag-29---22052026) |
 | 29.05.2026 | 36 | - | 5.9 | - | - | 27.2°C | - | 21.8°C | 14h | 60% | [Umzug Erdbeeren](#tag-36---29052026) |
+| 30.05.2026 | 37 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 31.05.2026 | 38 | - | 6.3 | - | - | 27.3°C | - | 25.8°C | 14h | 60% | [Update](#tag-38---31052026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -255,6 +257,8 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 27.05.2026 | 34 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 28.05.2026 | 35 | 6.2 | - | - | - | - | 24.4°C | - | 14h | 60% | [Update](#tag-35---28052026) |
 | 29.05.2026 | 36 | 6.3 | - | - | - | 27.2°C | 24.3°C | - | 14h | 60% | [Update](#tag-36---29052026) |
+| 30.05.2026 | 37 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 31.05.2026 | 38 | 6.2 | - | - | - | 27.3°C | 25.2°C | - | 14h | 60% | [Update](#tag-38---31052026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -335,5 +339,15 @@ Bei den Tomaten den dicksten Ast jeder Pflanze mit einer Schnur nach oben gebund
 ![Projekt 2](assets/Day36/PXL_20260529_175550449.jpg)
 
 ![Projekt 2](assets/Day36/PXL_20260529_175615210.jpg)
+
+#### Tag 38 - 31.05.2026
+
+System war gestern sich selbst überlassen. Die Werte sind ok, wenn auch der Raum langsam warm wird, was momentan nicht zu ändern ist.
+
+Die Pflanzen sehen gesund aus. Bei den Erdbeeren reichen erst einzelne, kurze Wurzeln ins Wasser, von einem dichten Netz ist noch nichts zu sehen.
+
+![Projekt 2](assets/Day38/PXL_20260531_103917660.jpg)
+
+![Projekt 2](assets/Day38/PXL_20260531_103923116.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
