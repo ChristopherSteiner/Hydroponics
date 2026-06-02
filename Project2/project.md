@@ -167,6 +167,8 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | 29.05.2026 | 36 | - | 5.9 | - | - | 27.2°C | - | 21.8°C | 14h | 60% | [Umzug Erdbeeren](#tag-36---29052026) |
 | 30.05.2026 | 37 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 31.05.2026 | 38 | - | 6.3 | - | - | 27.3°C | - | 25.8°C | 14h | 60% | [Update](#tag-38---31052026) |
+| 01.06.2026 | 39 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 02.06.2026 | 40 | - | 6.3 | - | 1.6 | 26.7°C | - | 25.1°C | 14h | 60% | [Update](#tag-40---02062026) |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -259,6 +261,8 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 29.05.2026 | 36 | 6.3 | - | - | - | 27.2°C | 24.3°C | - | 14h | 60% | [Update](#tag-36---29052026) |
 | 30.05.2026 | 37 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 31.05.2026 | 38 | 6.2 | - | - | - | 27.3°C | 25.2°C | - | 14h | 60% | [Update](#tag-38---31052026) |
+| 01.06.2026 | 39 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 02.06.2026 | 40 | 6.1 | - | 1.6 | - | 26.7°C | 24.9°C | - | 14h | 60% | [Update](#tag-40---02062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -349,5 +353,13 @@ Die Pflanzen sehen gesund aus. Bei den Erdbeeren reichen erst einzelne, kurze Wu
 ![Projekt 2](assets/Day38/PXL_20260531_103917660.jpg)
 
 ![Projekt 2](assets/Day38/PXL_20260531_103923116.jpg)
+
+#### Tag 40 - 02.06.2026
+
+Erstes EC-Messung mit dem neuen Bluelab Messgerät. Beide Boxen zeigen 1.6 mS/cm – dass gleiche Werte trotz unterschiedlicher Düngerformel entstehen ist normal, EC misst nur die Gesamtleitfähigkeit. Für die Erdbeeren passt 1.6 gut, für die Tomaten wäre beim nächsten Wasserwechsel etwas mehr sinnvoll.
+
+Die Tomaten hängen auf dem Nachmittagsfoto stark durch, was bei den aktuellen Temperaturen und nach stundenlangem Lampenbetrieb normal ist. Der Raum wird mit dem wärmeren Wetter langsam zur Herausforderung.
+
+![Projekt 2](assets/Day40/PXL_20260602_152805620.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
