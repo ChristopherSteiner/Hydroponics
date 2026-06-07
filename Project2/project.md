@@ -169,6 +169,10 @@ Die Tomaten entwickeln kräftige echte Blätter und zeigen durch hellere Keimbl�
 | 31.05.2026 | 38 | - | 6.3 | - | - | 27.3°C | - | 25.8°C | 14h | 60% | [Update](#tag-38---31052026) |
 | 01.06.2026 | 39 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 02.06.2026 | 40 | - | 6.3 | - | 1.6 | 26.7°C | - | 25.1°C | 14h | 60% | [Update](#tag-40---02062026) |
+| 03.06.2026 | 41 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 04.06.2026 | 42 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 05.06.2026 | 43 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 06.06.2026 | 44 | - | - | - | - | - | - | - | 14h | 60% | - |
 
 ### 📝 Tages-Einträge Phase 2
 
@@ -248,7 +252,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 
 ![Projekt 2](assets/Day29/PXL_20260522_105247081.jpg)
 
-## Phase 3: Wachstum & Erziehung (Vegetative Phase II)
+## Phase 3: Wachstum (Vegetative Phase II)
 
 | Datum | Tag | pH 🍅 | pH 🍓 | ec 🍅 | ec 🍓 | T-Luft | T-H2O 🍅 | T-H2O 🍓 | Beleuchtungszeit | Intensität | Link |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -263,6 +267,11 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 31.05.2026 | 38 | 6.2 | - | - | - | 27.3°C | 25.2°C | - | 14h | 60% | [Update](#tag-38---31052026) |
 | 01.06.2026 | 39 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 02.06.2026 | 40 | 6.1 | - | 1.6 | - | 26.7°C | 24.9°C | - | 14h | 60% | [Update](#tag-40---02062026) |
+| 03.06.2026 | 41 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 04.06.2026 | 42 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 05.06.2026 | 43 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 06.06.2026 | 44 | - | - | - | - | - | - | - | 14h | 60% | - |
+| 07.06.2026 | 45 | - | 6.2 | - | 1.6 | 26.9°C | - | 24.7°C | 14h | 75% | [Update](#tag-45---07062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -361,5 +370,15 @@ Erstes EC-Messung mit dem neuen Bluelab Messgerät. Beide Boxen zeigen 1.6 mS/cm
 Die Tomaten hängen auf dem Nachmittagsfoto stark durch, was bei den aktuellen Temperaturen und nach stundenlangem Lampenbetrieb normal ist. Der Raum wird mit dem wärmeren Wetter langsam zur Herausforderung.
 
 ![Projekt 2](assets/Day40/PXL_20260602_152805620.jpg)
+
+#### Tag 45 - 07.06.2026
+
+Die Tomaten wurden heute rausgenommen. Ab jetzt laufen nur noch die Erdbeeren weiter, sie bekommen damit die ganze Lampe für sich und die Intensität auf 75% erhöht.
+
+Die Werte sind stabil, Wasser muss noch nicht gewechselt werden. Alle Pflanzen haben jetzt Wurzeln die ins Wasser reichen, sogar der Nachzügler zeigt Fortschritte. Der Vorreiter hat einen Ausläufer geschickt, ein dünner, rötlicher Stolon der quer über die Box wächst. Das ist ein gutes Zeichen, die Pflanze fühlt sich wohl genug um sich vegetativ zu vermehren. Denoch abgeschnitten damit sich die Pflanze auf die Beeren konzentriert und nicht Vermehrung.
+
+![Projekt 2](assets/Day45/PXL_20260607_093535292.jpg)
+
+![Projekt 2](assets/Day45/PXL_20260607_093542970.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
