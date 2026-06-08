@@ -272,6 +272,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 05.06.2026 | 43 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 06.06.2026 | 44 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 07.06.2026 | 45 | - | 6.2 | - | 1.6 | 26.9°C | - | 24.7°C | 14h | 75% | [Update](#tag-45---07062026) |
+| 08.06.2026 | 46 | - | 6.1 | - | 1.6 | 27.4°C | - | 25.7°C | 14h | 75% | [Update](#tag-46---08062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -380,5 +381,19 @@ Die Werte sind stabil, Wasser muss noch nicht gewechselt werden. Alle Pflanzen h
 ![Projekt 2](assets/Day45/PXL_20260607_093535292.jpg)
 
 ![Projekt 2](assets/Day45/PXL_20260607_093542970.jpg)
+
+#### Tag 46 - 08.06.2026
+
+Werte unverändert stabil bei pH 6.1, EC 1.6 und 25.7°C Wassertemperatur, bei 27.4°C Raumtemperatur. Seit die Erdbeeren die Lampe für sich allein haben läuft alles ruhig und gleichmässig weiter.
+
+Heute extra ein paar Nahaufnahmen von Vorreiter und Nachzügler gemacht: Beide bilden munter neue Blätter nach. Beim Vorreiter schiebt sich gerade ein ganzes Bündel frischer Triebe aus der Mitte, beim Nachzügler kommt nun ebenfalls frischer, hellgrüner Austrieb, er holt sichtlich auf. Von unten sieht man schön wie die Wurzeln aller Pflanzen mittlerweile bis ins Wasser reichen.
+
+![Projekt 2](assets/Day46/PXL_20260608_131949358.jpg)
+
+![Projekt 2](assets/Day46/PXL_20260608_132215210.jpg)
+
+![Projekt 2](assets/Day46/PXL_20260608_132225520.jpg)
+
+![Projekt 2](assets/Day46/PXL_20260608_132248550.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
