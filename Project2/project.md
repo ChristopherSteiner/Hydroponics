@@ -273,6 +273,10 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 06.06.2026 | 44 | - | - | - | - | - | - | - | 14h | 60% | - |
 | 07.06.2026 | 45 | - | 6.2 | - | 1.6 | 26.9°C | - | 24.7°C | 14h | 75% | [Update](#tag-45---07062026) |
 | 08.06.2026 | 46 | - | 6.1 | - | 1.6 | 27.4°C | - | 25.7°C | 14h | 75% | [Update](#tag-46---08062026) |
+| 09.06.2026 | 47 | - | - | - | - | - | - | - | 14h | 75% | - |
+| 10.06.2026 | 48 | - | - | - | - | - | - | - | 14h | 75% | - |
+| 11.06.2026 | 49 | - | - | - | - | - | - | - | 14h | 75% | - |
+| 12.06.2026 | 50 | - | 5.9 | - | 1.4-1.6 | 26°C | - | 20.3°C | 14h | 75% | [Wasserwechsel](#tag-50---12062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -395,5 +399,17 @@ Heute extra ein paar Nahaufnahmen von Vorreiter und Nachzügler gemacht: Beide b
 ![Projekt 2](assets/Day46/PXL_20260608_132225520.jpg)
 
 ![Projekt 2](assets/Day46/PXL_20260608_132248550.jpg)
+
+#### Tag 50 - 12.06.2026
+
+Erster komplettes Wasserwechsel seit dem Umzug in die Rakobox (Tag 36, also nach 14 Tagen). 23 Liter frisches Wasser, dieses Mal mit der "Growing"-Mischung angesetzt: 28ml Micro, 41ml Grow, 14ml Bloom, pH auf 5.9 eingestellt. Das Wasser kommt direkt aus dem Hahn und ist mit 20.3°C noch kühl, wärmt sich aber unter der Lampe schnell wieder auf. PH-Gerät dabei gleich neu kalibriert. Die EC schwankt im Moment zwischen 1.4 und 1.6, mit der neuen Mischung dürfte sie sich in den nächsten Tagen eher Richtung 1.6-1.8 einpendeln.
+
+Alle Pflanzen haben jetzt lange, weisse Wurzeln die tief ins Wasser reichen, deutlich mehr als noch vor ein paar Tagen. Der Vorreiter ist mittlerweile richtig gross und buschig mit vielen frischen Blättern. Unten am Stiel hat sich ein einzelnes Blatt gelb-braun verfärbt, das ist bei der Grösse der Pflanze ein ganz normales Absterben eines älteren unteren Blatts und kein Grund zur Sorge, kann beim nächsten Mal einfach entfernt werden.
+
+![Projekt 2](assets/Day50/PXL_20260612_060905113.jpg)
+
+![Projekt 2](assets/Day50/PXL_20260612_060905114.jpg)
+
+![Projekt 2](assets/Day50/PXL_20260612_060933247.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
