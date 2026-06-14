@@ -277,6 +277,8 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 10.06.2026 | 48 | - | - | - | - | - | - | - | 14h | 75% | - |
 | 11.06.2026 | 49 | - | - | - | - | - | - | - | 14h | 75% | - |
 | 12.06.2026 | 50 | - | 5.9 | - | 1.4-1.6 | 26°C | - | 20.3°C | 14h | 75% | [Wasserwechsel](#tag-50---12062026) |
+| 13.06.2026 | 51 | - | - | - | - | - | - | - | 14h | 75% | - |
+| 14.06.2026 | 52 | - | 6.2 | - | 1.4-1.6 | 26.2°C | - | 24.5°C | 14h | 75% | [Update](#tag-52---14062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -411,5 +413,15 @@ Alle Pflanzen haben jetzt lange, weisse Wurzeln die tief ins Wasser reichen, deu
 ![Projekt 2](assets/Day50/PXL_20260612_060905114.jpg)
 
 ![Projekt 2](assets/Day50/PXL_20260612_060933247.jpg)
+
+#### Tag 52 - 14.06.2026
+
+Diverse Abzweiger an den Pflanzen abgeschnitten, insgesamt sehen alle Pflanzen kräftig und gesund aus.
+
+![Projekt 2](assets/Day52/PXL_20260614_071934116.jpg)
+
+![Projekt 2](assets/Day52/PXL_20260614_072039106.jpg)
+
+![Projekt 2](assets/Day52/PXL_20260614_072057065.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
