@@ -280,6 +280,9 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 13.06.2026 | 51 | - | - | - | - | - | - | - | 14h | 75% | - |
 | 14.06.2026 | 52 | - | 6.2 | - | 1.4-1.6 | 26.2°C | - | 24.5°C | 14h | 75% | [Update](#tag-52---14062026) |
 | 15.06.2026 | 53 | - | 5.6 | - | 1.4-1.6 | 26.9°C | - | 25.3°C | 14h | 75% | - |
+| 16.06.2026 | 54 | - | - | - | - | - | - | - | 14h | 75% | - |
+| 17.06.2026 | 55 | - | - | - | - | - | - | - | 14h | 75% | - |
+| 18.06.2026 | 56 | - | 6.0 (vorher 5.1) | - | 1.4-1.6 | 25.8°C | - | 19.3°C | 14h | 75% | [Wasserwechsel](#tag-56---18062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -424,5 +427,19 @@ Diverse Abzweiger an den Pflanzen abgeschnitten, insgesamt sehen alle Pflanzen k
 ![Projekt 2](assets/Day52/PXL_20260614_072039106.jpg)
 
 ![Projekt 2](assets/Day52/PXL_20260614_072057065.jpg)
+
+#### Tag 56 - 18.06.2026
+
+pH heute morgen bei 5.1, zu tief für länger, also direkt Wasserwechsel. Selbe Growing-Mischung wie bei Tag 50: 23L, 28ml Micro, 41ml Grow, 14ml Bloom, pH auf 6.0 eingestellt. Wasser kommt wieder kalt aus dem Hahn (19.3°C), EC pendelt sich bei 1.4-1.6 ein.
+
+Die Pflanzen selbst sehen sehr gut aus und haben seit Tag 52 nochmal sichtbar zugelegt. Das Wurzelbild von unten ist ein dichtes, weisses Wurzelnetz und hängt tief ins Wasser, deutlich massiver als noch vor einer Woche.
+
+Beim Herz des Vorreiters fällt eine leichte Bräunung an den jüngsten, noch eingerollten Blättern auf. Das ist wahrscheinlich eine milde Kalziummangel-Erscheinung durch den tiefen pH der letzten Tage, bei 5.1 wird Kalzium kaum noch aufgenommen. Mit pH zurück auf 6.0 sollte neues Gewebe wieder sauber rauskommen.
+
+![Projekt 2](assets/Day56/PXL_20260618_043702022.jpg)
+
+![Projekt 2](assets/Day56/PXL_20260618_043711111.jpg)
+
+![Projekt 2](assets/Day56/PXL_20260618_055830975.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
