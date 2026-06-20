@@ -284,6 +284,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 17.06.2026 | 55 | - | - | - | - | - | - | - | 14h | 75% | - |
 | 18.06.2026 | 56 | - | 6.0 (vorher 5.1) | - | 1.4-1.6 | 25.8°C | - | 19.3°C | 14h | 75% | [Wasserwechsel](#tag-56---18062026) |
 | 19.06.2026 | 57 | - | 5.5 (vorher 6.5) | - | 1.4-1.6 | 26.8°C | - | 25.3°C | 14h | 75% | [pH-Korrektur](#tag-57---19062026) |
+| 20.06.2026 | 58 | - | 5.2 | - | 1.4-1.6 | 27.3°C | - | 26.1°C | 14h | 75% | [Update](#tag-58---20062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -446,5 +447,15 @@ Beim Herz des Vorreiters fällt eine leichte Bräunung an den jüngsten, noch ei
 #### Tag 57 - 19.06.2026
 
 pH war auf 6.5 gestiegen (normaler Anstieg nach dem Wasserwechsel von gestern), mit PH-Down korrigiert, aber etwas übers Ziel hinaus auf 5.5.
+
+#### Tag 58 - 20.06.2026
+
+Beim Vorreiter ist das Herz wieder deutlich grüner als noch vor zwei Tagen, die Bräunung scheint sich rauszuwachsen. Sonst weiterhin kräftiges Wachstum bei allen Pflanzen, die Wurzeln von unten sehen dicht und weiss aus.
+
+![Projekt 2](assets/Day58/PXL_20260620_073446467.jpg)
+
+![Projekt 2](assets/Day58/PXL_20260620_073457595.jpg)
+
+![Projekt 2](assets/Day58/PXL_20260620_073508145.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
