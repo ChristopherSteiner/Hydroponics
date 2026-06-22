@@ -286,6 +286,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 19.06.2026 | 57 | - | 5.5 (vorher 6.5) | - | 1.4-1.6 | 26.8°C | - | 25.3°C | 14h | 75% | [pH-Korrektur](#tag-57---19062026) |
 | 20.06.2026 | 58 | - | 5.2 | - | 1.4-1.6 | 27.3°C | - | 26.1°C | 14h | 75% | [Update](#tag-58---20062026) |
 | 21.06.2026 | 59 | - | 5.1 | - | 1.4-1.6 | 27.2°C | - | 25.7°C | 14h | 75% | - |
+| 22.06.2026 | 60 | - | 5.1 | - | 1.4-1.6 | 28.5°C | - | 27.1°C | 14h | 75% | [Update](#tag-60---22062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -458,5 +459,15 @@ Beim Vorreiter ist das Herz wieder deutlich grüner als noch vor zwei Tagen, die
 ![Projekt 2](assets/Day58/PXL_20260620_073457595.jpg)
 
 ![Projekt 2](assets/Day58/PXL_20260620_073508145.jpg)
+
+#### Tag 60 - 22.06.2026
+
+pH stabil bei 5.1, EC weiterhin 1.4-1.6. Wasser mit 27.1°C bei 28.5°C Raumtemperatur aber deutlich wärmer als zuletzt, das Sommerwetter macht sich jetzt bemerkbar.
+
+Insgesamt sehen die Pflanzen weiterhin kräftig aus, viel frisches Laub. Auf der Nahaufnahme ist an einer Blattachsel eine kleine, knubbelige braun-gelbliche Knospenansammlung zu sehen, direkt neben einem winzigen neuen Blättchen. Das könnte der erste Blütenansatz sein, noch zu früh um es sicher zu sagen, aber die Form passt zu einer jungen Erdbeer-Blütentraube. In den nächsten Tagen genau beobachten ob sich das weiterentwickelt.
+
+![Projekt 2](assets/Day60/PXL_20260622_145243400.jpg)
+
+![Projekt 2](assets/Day60/PXL_20260622_145249363.jpg)
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
