@@ -287,6 +287,7 @@ Die Erdbeeren im Tupper entwickeln sich langsamer, stehen aber gesund da. Da bis
 | 20.06.2026 | 58 | - | 5.2 | - | 1.4-1.6 | 27.3°C | - | 26.1°C | 14h | 75% | [Update](#tag-58---20062026) |
 | 21.06.2026 | 59 | - | 5.1 | - | 1.4-1.6 | 27.2°C | - | 25.7°C | 14h | 75% | - |
 | 22.06.2026 | 60 | - | 5.1 | - | 1.4-1.6 | 28.5°C | - | 27.1°C | 14h | 75% | [Update](#tag-60---22062026) |
+| 23.06.2026 | 61 | - | 5.9 (vorher 5.0) | - | 1.4-1.6 | 28.5°C | - | 26.9°C | 14h | 75% | [Kühlung & pH-Korrektur](#tag-61---23062026) |
 
 ### Tag 30 - 23.05.2026
 
@@ -469,5 +470,11 @@ Insgesamt sehen die Pflanzen weiterhin kräftig aus, viel frisches Laub. Auf der
 ![Projekt 2](assets/Day60/PXL_20260622_145243400.jpg)
 
 ![Projekt 2](assets/Day60/PXL_20260622_145249363.jpg)
+
+#### Tag 61 - 23.06.2026
+
+pH weiter leicht gesunken auf 5.0, EC unverändert bei 1.4-1.6. Erste Kühlmassnahme umgesetzt: eine im TK gefrorene PET-Flasche ins Wasser gelegt, Wassertemperatur dadurch leicht von 27.1°C auf 26.9°C gesenkt, bei weiterhin warmen 28.5°C Raumtemperatur. Wirkung ist da, aber noch zu schwach um wirklich was zu bringen, eventuell braucht es mehrere Flaschen oder öfters wechseln.
+
+Erstmals pH-Up zur Korrektur eingesetzt, von 5.0 auf 5.9. Die Dosierung ist deutlich sparsamer als beim pH-Down, schon sehr wenig bringt eine grosse Wirkung.
 
 ## Phase 4: Blüte & Fruchtbildung (Generative Phase)
